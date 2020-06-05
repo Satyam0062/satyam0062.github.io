@@ -8,7 +8,8 @@ header:
   image: "/images/projects.jpg"
 ---
 
-{% include group-by-array collection=site.posts field="tags" %}
+{% include helper %}
+{% include group-by-array collection = site.posts field="tags" %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[for loop.index0] %}
