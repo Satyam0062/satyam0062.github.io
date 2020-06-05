@@ -20,8 +20,9 @@ pathologist has to manually review and classify every single genetic mutation
 based on evidence from text-based clinical literature.
 
 ##Business Problem
+
 The workflow is as follows:
-A molecular pathologist selects a list of genetic variations of interest that 
+A molecular pathologist selects a list of genetic variations of interest that
 he/she want to analyse.
 The molecular pathologist searches for evidence in the medical literature that
 somehow are relevant to the genetic variations of interest.
@@ -38,6 +39,7 @@ collect the relevant evidence for them. But the last step, which is also the mos
 time consuming, will be fully automated by a machine learning model.
 
 ##Problem Statement
+
 Classify the given genetic variations/mutations based on evidence from text-based
 clinical literature. In this problem, we need to find the mutation-type given
 the gene, variation and some text data from published research.
