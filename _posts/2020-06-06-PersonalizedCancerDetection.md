@@ -22,17 +22,14 @@ based on evidence from text-based clinical literature.
 **Business Problem**
 
 The workflow is as follows:
-A molecular pathologist selects a list of genetic variations of interest that
+* A molecular pathologist selects a list of genetic variations of interest that
 he/she want to analyse.
-The molecular pathologist searches for evidence in the medical literature that
+* The molecular pathologist searches for evidence in the medical literature that
 somehow are relevant to the genetic variations of interest.
-Finally, this molecular pathologist spends a huge amount of time analysing the
+* Finally, this molecular pathologist spends a huge amount of time analysing the
 evidence related to each of the variations to classify them into any one of the
-9 different classes. Our goal here is to replace step 3 by a machine learning
-model. The molecular pathologist will still have to decide which variations are
-of interest, and also collect the relevant evidence for them. But the last step,
-which is also the most time consuming, will be fully automated by a machine
-learning model.
+9 different classes.
+
 Our goal here is to replace step 3 by a machine learning model. The molecular
 pathologist will still have to decide which variations are of interest, and also
 collect the relevant evidence for them. But the last step, which is also the most
