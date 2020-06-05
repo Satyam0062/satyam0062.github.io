@@ -1,6 +1,6 @@
 ---
 title: "DonorsChoose Data Screening"
-tags: [machine learning, data science]
+tags: [DonorsChoose Data Screening]
 header:
   image: "/images/DonorsChooseDataScreening/home.jpg"
   excerpt: "Machine Learning, Data Science "
