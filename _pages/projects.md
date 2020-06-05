@@ -8,7 +8,7 @@ header:
   image: "/images/projects.jpg"
 ---
 
-{% include skip-links.html %}
+{% include page_hero.html %}
 {% include group-by-array collection = site.posts field="tags" %}
 
 {% for tag in group_names %}
