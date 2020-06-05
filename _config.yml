@@ -101,10 +101,11 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "satyam0062@gmail.com"
+      url: "satyam0062@gmail.com"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/Satyam0062"
+      url: "https://github.com/Satyam0062"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/satyam0062/"
