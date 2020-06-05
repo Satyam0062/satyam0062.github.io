@@ -99,9 +99,9 @@ author:
   location         : "India"
   email            : "satyam0062@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "satyam0062@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "satyam0062@gmail.com"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
