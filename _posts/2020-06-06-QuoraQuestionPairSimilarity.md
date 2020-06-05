@@ -2,7 +2,7 @@
 title: "Quora Question Pair Similarity"
 tags: [Quora Question Pair Similarity]
 header:
-  image: "/images/QuoraQuestionPairSimilarity/home.jpg"
+  image: "/images/QuoraQuestionPairSimilarity/home.png"
   excerpt: "Machine Learning, Data Science "
 ---
 
