@@ -19,7 +19,7 @@ time-consuming task. Based on a gene and a variation in it, a clinical
 pathologist has to manually review and classify every single genetic mutation
 based on evidence from text-based clinical literature.
 
-##Business Problem
+**Business Problem**
 
 The workflow is as follows:
 A molecular pathologist selects a list of genetic variations of interest that
@@ -38,7 +38,7 @@ pathologist will still have to decide which variations are of interest, and also
 collect the relevant evidence for them. But the last step, which is also the most
 time consuming, will be fully automated by a machine learning model.
 
-##Problem Statement
+**Problem Statement**
 
 Classify the given genetic variations/mutations based on evidence from text-based
 clinical literature. In this problem, we need to find the mutation-type given
