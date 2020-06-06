@@ -4,21 +4,6 @@ permalink: /about/
 author_profile: true
 header:
   image: "/images/home.jpg"
-  feature_row:
-    - image_path: /images/github.jpg
-      alt: "placeholder image 1"
-      title: "Placeholder 1"
-      excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    - image_path: /images/github.jpg
-      alt: "placeholder image 2"
-      title: "Placeholder 2"
-      excerpt: "This is some sample content that goes here with **Markdown** formatting."
-      url: "#test-link"
-      btn_label: "Read More"
-      btn_class: "btn--inverse"
-    - image_path: /images/github.jpg
-      title: "Placeholder 3"
-      excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
 
@@ -32,4 +17,6 @@ reviews. My core area of interest is Natural Language Processing and Computer
 Vision. I love solving problems and push myself to learn something new from
 every problem.
 
-{% include feature_row %}
+![image-center](/images/github.jpg){: .align-left}
+![image-center](/images/github.jpg){: .align-center}
+![image-center](/images/github.jpg){: .align-right}
