@@ -24,3 +24,12 @@ header:
   project descriptions as well as additional metadata about the project, teacher
   and school. DonorsChoose.org can then use this information to identify projects
   most likely to need further review before approval.
+
+  feature_row:
+  - image_path: /images/github.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
