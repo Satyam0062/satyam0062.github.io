@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/home.jpg"
+  image: "/images/about.jpg"
 ---
 
   I am a passionate engineer with a strong mathematical background, passionate
