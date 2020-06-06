@@ -1,10 +1,11 @@
 ---
+
 title: "About"
 permalink: /about/
-header:
-  image: "images/about.jpg"
+image : "/images/about.jpg"
 
 ---
+{% include figure image_path="images/about.jpg" alt="this is a placeholder image" %}
 
 
   I am a passionate engineer with a strong mathematical background, passionate
