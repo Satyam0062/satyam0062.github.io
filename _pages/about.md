@@ -5,6 +5,7 @@ permalink: /about/
 ---
   ![image-left](/images/about.jpg){: .align-center}
 
+  {: .text-center}
   I am a passionate engineer with a strong mathematical background,
   passionate about cutting edge technology and solving real- world
   problems related to Artificial intelligence and Machine Learning.
