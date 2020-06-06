@@ -1,9 +1,9 @@
 ---
 title: "About"
 permalink: /about/
-header:
-  image: "/images/about.jpg"
+
 ---
+  ![image-left](/images/about.jpg){: .align-left}
 
   I am a passionate engineer with a strong mathematical background, passionate
   about cutting edge technology and solving real- world problems related to
