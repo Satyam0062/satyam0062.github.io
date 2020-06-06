@@ -4,7 +4,11 @@ title: "About"
 permalink: /about/
 
 ---
-{% include figure image_path="/assets/images/about.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+
+<figure>
+  <img src="images/about.jpg" alt="this is a placeholder image">
+  <figcaption>This is a figure caption.</figcaption>
+</figure>
 
   I am a passionate engineer with a strong mathematical background, passionate
   about cutting edge technology and solving real- world problems related to
