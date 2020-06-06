@@ -1,6 +1,7 @@
 # main links
 main:
-  - title : "Projects"
+  
+  -title : "Projects"
     url: /projects/
 
   -title: "Resume"
