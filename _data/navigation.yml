@@ -5,7 +5,9 @@ main:
 
   - title : "Projects"
     url: /projects/
-    
+
+    -title: "Resume"
+    url: "https://www.slideshare.net/satyamsingh245/resume-229474844"
   # # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
