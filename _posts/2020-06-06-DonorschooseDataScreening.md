@@ -4,15 +4,9 @@ tags: [DonorsChoose Data Screening]
 header:
   image: "/images/DonorsChooseDataScreening/home.jpg"
   excerpt: "Machine Learning, Data Science "
-  feature_row:
-  - image_path : /images/github.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-    
+
+
+
 ---
 
   DonorsChoose.org receives hundreds of thousands of project proposals each year
@@ -34,4 +28,4 @@ header:
   and school. DonorsChoose.org can then use this information to identify projects
   most likely to need further review before approval.
 
-  {% include feature_row %}
+  ![image-left](/images/github.jpg){: .align-left}
