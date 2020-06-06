@@ -28,5 +28,5 @@ header:
   and school. DonorsChoose.org can then use this information to identify projects
   most likely to need further review before approval.
 
-  ![image-left](/images/github.jpg){: .align-center}
+  ![image-left](/images/github.jpg){: .align-left}
    [Code](https://github.com/Satyam0062/DonorsChoose-Data-Screening)
