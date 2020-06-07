@@ -3,13 +3,11 @@ title: "DonorsChoose Data Screening"
 tags: [DonorsChoose Data Screening]
 header:
   image : "/images/DonorsChooseDataScreening/home.jpg"
-  excerpt: "Machine Learning, Data Science "
 
 
 
 ---
 
-![image-left](/images/DonorsChooseDataScreening/home.jpg){: .align-center}
 
   DonorsChoose.org receives hundreds of thousands of project proposals each year
   for classroom projects in need of funding. Right now, a large number
