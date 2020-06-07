@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 author_profile: true
 header:
-  image: "/images/home.jpg"
+  image: "/images/About/about.jpg"
 
 ---
 
@@ -17,6 +17,4 @@ reviews. My core area of interest is Natural Language Processing and Computer
 Vision. I love solving problems and push myself to learn something new from
 every problem.
 
-![image-center](/images/github.jpg){: .align-left}
-![image-center](/images/github.jpg){: .align-center}
-![image-center](/images/github.jpg){: .align-right}
+![image-center](/images/About/about.jpg){: .align-center}
