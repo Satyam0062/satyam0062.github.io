@@ -34,7 +34,7 @@ generates questions around the important sentences.
 
 ## Areas of Interest
 
-![full](/images/about/interests.jpg)
-{: .full}
+![image-center](/images/About/interests.jpg){: .align-center}
+
 
 [Resume](https://www.slideshare.net/satyamsingh245/resume-229474844)
