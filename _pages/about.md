@@ -1,10 +1,12 @@
 ---
+layout: single
 title: "Personal Details"
 permalink: /about/
-
+header:
+  author_profile: true
+  image: "/images/About/about.jpg"
 
 ---
-![image-center](/images/About/about.jpg){: .align-center}
 
 Hi, I am Satyam, a third-year undergraduate in Electrical Engineering at National
 Institute of Technology Agartala. I started learning Data Science in May 2019,
