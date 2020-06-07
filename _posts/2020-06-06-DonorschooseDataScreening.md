@@ -2,7 +2,7 @@
 title: "DonorsChoose Data Screening"
 tags: [DonorsChoose Data Screening]
 header:
-  image_path : /images/DonorsChooseDataScreening/home.jpg
+  image : "/images/DonorsChooseDataScreening/home.jpg"
   excerpt: "Machine Learning, Data Science "
 
 
@@ -27,6 +27,3 @@ header:
   project descriptions as well as additional metadata about the project, teacher
   and school. DonorsChoose.org can then use this information to identify projects
   most likely to need further review before approval.
-
-  ![image-left](/images/github.jpg){: .align-left}
-   [Code](https://github.com/Satyam0062/DonorsChoose-Data-Screening)
