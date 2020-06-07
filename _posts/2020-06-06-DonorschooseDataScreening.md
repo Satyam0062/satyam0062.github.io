@@ -2,7 +2,7 @@
 title: "DonorsChoose Data Screening"
 tags: [DonorsChoose Data Screening]
 header:
-  image: "/images/DonorsChooseDataScreening/home.jpg"
+  image_path : /images/DonorsChooseDataScreening/home.jpg
   excerpt: "Machine Learning, Data Science "
 
 
