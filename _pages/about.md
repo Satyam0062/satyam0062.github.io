@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "Personal Details"
 permalink: /about/
 header:
-  author_profile: false
+  author_profile: true
   image: "/images/About/about.jpg"
 
 ---
@@ -23,6 +23,7 @@ every problem.
 * Created new content on programming in python.
 * Corrected the existing errors in the course.
 
+
 2. **Data Science intern at Inscripta.ai**
 * The main aim was to generate relevant questions from the user and professional reviews.
 * Developed 3 models - the first model selects important sentences from user and
@@ -33,4 +34,7 @@ generates questions around the important sentences.
 
 ## Areas of Interest
 
-![image-center](/images/About/interests.jpg)
+![full](/images/about/interests.jpg)
+{: .full}
+
+[Resume](https://www.slideshare.net/satyamsingh245/resume-229474844)
