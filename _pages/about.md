@@ -17,6 +17,20 @@ reviews. My core area of interest is Natural Language Processing and Computer
 Vision. I love solving problems and push myself to learn something new from
 every problem.
 
+## Experience
+1. **Machine Learning intern at Ignitus**
+* Collaborated in the development of MOOC on the concepts of Machine learning.
+* Created new content on programming in python.
+* Corrected the existing errors in the course.
+
+2. **Data Science intern at Inscripta.ai**
+* The main aim was to generate relevant questions from the user and professional reviews.
+* Developed 3 models - the first model selects important sentences from user and
+professional reviews using Named Entity recognition, Second model searches for
+answers of some standard questions from the important sentences, the third model
+generates questions around the important sentences.
+* Combined the three models to get relevant questions and answers.
+
 ## Areas of Interest
 
-![image-center](/images/About/interests.jpg){: .align-center}
+![image-center](/images/About/interests.jpg)
