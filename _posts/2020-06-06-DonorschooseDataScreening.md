@@ -9,8 +9,7 @@ header:
 
 ---
 
-![image-left](/images/DonorsChooseDataScreening/home.jpg){: .align-left}
- [Code](https://github.com/Satyam0062/DonorsChoose-Data-Screening)
+![image-left](/images/DonorsChooseDataScreening/home.jpg){: .align-center}
 
   DonorsChoose.org receives hundreds of thousands of project proposals each year
   for classroom projects in need of funding. Right now, a large number
