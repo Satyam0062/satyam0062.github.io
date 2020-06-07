@@ -7,3 +7,5 @@ header:
 ---
 
 Given a directed social graph, have to predict missing links to recommend users.
+
+[Code](https://github.com/Satyam0062/Social-Media-Graph-Prediction)
